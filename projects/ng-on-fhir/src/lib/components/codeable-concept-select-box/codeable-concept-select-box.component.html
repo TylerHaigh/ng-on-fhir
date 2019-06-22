@@ -1,0 +1,5 @@
+<mat-select *ngIf="codeableConcept && codeableConcept.coding">
+  <mat-option *ngFor="let c of codeableConcept.coding" [value]="c.code">
+    {{c.display}}
+  </mat-option>
+</mat-select>

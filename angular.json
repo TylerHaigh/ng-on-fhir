@@ -7,7 +7,7 @@
       "projectType": "library",
       "root": "projects/ng-on-fhir",
       "sourceRoot": "projects/ng-on-fhir/src",
-      "prefix": "lib",
+      "prefix": "fhir",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-ng-packagr:build",
