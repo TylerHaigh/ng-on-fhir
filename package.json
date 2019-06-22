@@ -1,0 +1,11 @@
+{
+  "name": "ng-on-fhir",
+  "version": "0.0.1",
+  "dependencies": {
+    "@angular/common": "^8.0.1",
+    "@angular/core": "^8.0.1"
+  },
+  "devDependencies": {
+    "ng-packagr": "^5.3.0"
+  }
+}
